@@ -182,7 +182,20 @@ var bcnjs_events = [
 	},
 	{
 		date: [2013, 10, 12],
-		talks: []
+		talks: [
+      {
+				title: 'Functional JS',
+				presenter: {
+					username: 'mattfield',
+					displayname: 'Matt Field'
+				},
+				description: "We all know how important it is to write well-structured software. Functional programming is a paradigm that helps us do just that. In this talk, we'll see how thinking functionally helps us create meaningful program designs and abstractions and present some real-world examples that show how it can help you write cleaner, more disciplined code that's easier to reason about, easier to test and easier to maintain.",
+				resources: {
+					github: '',
+					slides: ''
+				}
+			}
+    ]
 	},
 	{
 		date: [2013, 11, 10],
