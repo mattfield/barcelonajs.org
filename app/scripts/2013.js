@@ -182,6 +182,10 @@ var bcnjs_events = [
 	},
 	{
 		date: [2013, 10, 12],
+		talks: []
+	},
+	{
+		date: [2013, 11, 10],
 		talks: [
       {
 				title: 'Functional JS',
@@ -196,9 +200,5 @@ var bcnjs_events = [
 				}
 			}
     ]
-	},
-	{
-		date: [2013, 11, 10],
-		talks: []
 	}
 ];
