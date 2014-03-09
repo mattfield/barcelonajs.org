@@ -24,6 +24,26 @@ task('copy', [], function () {
 
 }, true);
 
+task('archive', [], function () {
+	console.info('Archiving history');
+	var
+		history = [];
+
+	bcnjs2014.forEach(function (event) {
+		var event_date = new Date(event.date);
+		if (event_date <= new Date()) {
+			history.push(event);
+		}
+	});
+
+	fs.writeFile('./contents/_history/events.json', JSON.stringify(history), function (err) {
+		console.info('Done');
+		complete();
+	});
+
+}, true);
+
+
 task('clear', [], function () {
 	console.info('Cleaning for next month');
 	fs.writeFile('./contents/_index/events.json', '[{},{}]', function (err) {
