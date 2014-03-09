@@ -46,10 +46,11 @@
 				"title": "Backbone, Marionette and other puppets",
 				"speaker": {
 					"twitter": "ainformatico",
-					"name": "Alejandro"
+					"name": "Alejandro Dev.",
+					"portrait": "https://pbs.twimg.com/profile_images/1696780523/002.png"
 				},
 				"level": "Intermediate",
-				"language": "en",
+				"language": "es/en",
 				"git": "",
 				"slides": "",
 				"video": "",
