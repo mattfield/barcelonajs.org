@@ -1,5 +1,5 @@
 {{#talks}}
-<article class="event">
+<article class="history-event">
   <header class="speaker">
     {{#if speaker}}
       {{#if speaker.portrait}}
@@ -17,14 +17,27 @@
       </span>
     {{/if}}
   </header>
-  {{#if title}}
-    <div class="meta">
-      Language: {{language}} | Level: {{level}}
-    </div>
-    <h3>{{title}}</h3>
-    <p>{{description}}</p>
-  {{else}}
-  <p><strong>This slot could be yours! Submit your talk now.</strong>  You did some crazy stuff with JavaScript? You want to show it to the community? Drop us a line on your topic on <a href="https://twitter.com/bcnjs">Twitter</a> or to <a href="https://plus.google.com/u/0/communities/115705669406517039298">Google+</a>.</p>
-  {{/if}}
+  <div class="event-content">
+    {{#if title}}
+      <div class="meta">
+        Language: {{language}} | Level: {{level}}
+      </div>
+      <h3>{{title}}</h3>
+      <p>{{description}}</p>
+      <div class="resources">
+        {{#if git}}
+          <a href="{{git}}"><i class="fa fa-github fa-2x"></i></a>
+        {{/if}}
+        {{#if slides}}
+          <a href="{{slides}}"><i class="fa fa-desktop fa-2x"></i></a>
+        {{/if}}
+        {{#if video}}
+          <a href="{{video}}"><i class="fa fa-vimeo-square fa-2x"></i></a>
+        {{/if}}
+      </div>
+    {{else}}
+    <p><strong>This slot could be yours! Submit your talk now.</strong>  You did some crazy stuff with JavaScript? You want to show it to the community? Drop us a line on your topic on <a href="https://twitter.com/bcnjs">Twitter</a> or to <a href="https://plus.google.com/u/0/communities/115705669406517039298">Google+</a>.</p>
+    {{/if}}
+  </div>
 </article>
 {{/talks}}

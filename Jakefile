@@ -31,9 +31,16 @@ task('archive', [], function () {
 
 	bcnjs2014.forEach(function (event) {
 		var event_date = new Date(event.date);
-		if (event_date <= new Date()) {
-			history.push(event);
+		if (event.talks) {
+			if (event_date <= new Date()) {
+				event.talks.reverse();
+				history.push(event);
+			}
 		}
+	});
+
+	history.sort(function(a, b) {
+		return new Date(b.date) - new Date(a.date);
 	});
 
 	fs.writeFile('./contents/_history/events.json', JSON.stringify(history), function (err) {
