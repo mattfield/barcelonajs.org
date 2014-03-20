@@ -52,8 +52,8 @@
 				"level": "Intermediate",
 				"language": "es/en",
 				"git": "",
-				"slides": "",
-				"video": "",
+				"slides": "http://www.alejandroelinformatico.com/slideshows/en/marionette-js/#/",
+				"video": "https://vimeo.com/89510571",
 				"description": "Now that you know Backbone.js is time to become a puppeteer and use Marionette.js, a composite application library for Backbone.js that aims to simplify the construction of large scale Javascript applications."
 			},
 			{
@@ -67,7 +67,7 @@
 				"language": "en",
 				"git": "",
 				"slides": "http://miguelcamba.com/talks/meet-ember-js/",
-				"video": "",
+				"video": "https://vimeo.com/89488271",
 				"description": "There's a new framework in town. Probably you've heard about it. It's time to know what's all the buzz about. A brief introduction to Ember as a framework and the phylosophy behind it."
 			}
 		]
@@ -88,19 +88,34 @@
 				"slides": "",
 				"video": "",
 				"description": "AngularJS uses its HTML directives at the core of its UI generation. That means that you specify how to generate the HTML using HTML. Part of that logic has been moved to the controller functions, but part of it cannot be moved. The result is imperative constructs like ng-if and ng-repeat inside the declarative HTML template. The mismatch between an imperative problem and a declarative tool ends up in a messy solution in the long run. JSP tried the same thing with custom tag libraries, and failed. XSL tried the same thing, and failed too. This talk will get into deeper detail about why I believe that the HTML directives - one of the core elements that AngularJS is praised for - is not such a great solution for UI generation."
-			},{}
+			}
 		]
 	},
 	{
-		"date": "2014-05-07T22:00:00.000Z",
+		"date": "2014-05-27T19:15:00.000Z",
+		"talks": [
+			{
+				"title": "Rapid API Development with Foxx",
+				"speaker": {
+					"twitter": "moonbeamlabs",
+					"portrait": "https://1.gravatar.com/avatar/84ac75cc9db741ff266392c83de9aa15?d=https%3A%2F%2Fidenticons.github.com%2F0c5d6c34154abb43427d3fa247a396b7.png&r=x&s=400",
+					"name": "Lucas Dohmen"
+				},
+				"level": "Intermediate",
+				"language": "en",
+				"git": "",
+				"slides": "",
+				"video": "",
+				"description": "Foxx is a server-side JavaScript application framework that – instead of being a separate application layer is directly integrated into the open source NoSQL database ArangoDB. Foxx helps you structure your application using the MVC pattern and you can put everything into version control. Still it reduces redundancy in database communication and provides direct access to all features of ArangoDB like graph traversals or the query language AQL. Furthermore it automatically generates an interactive API documentation with just a few annotations. Foxx integrates both with modern client-side MVC frameworks or can be used behind your server-side application to reduce roundtrips to the database."
+			}
+		]
+	},
+	{
+		"date": "2014-06-17T19:15:00.000Z",
 		"talks": []
 	},
 	{
-		"date": "2014-06-11T22:00:00.000Z",
-		"talks": []
-	},
-	{
-		"date": "2014-07-09T22:00:00.000Z",
+		"date": "2014-07-22T19:15:00.000Z",
 		"talks": []
 	},
 	{
