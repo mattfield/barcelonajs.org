@@ -92,6 +92,25 @@
 		]
 	},
 	{
+		"date": "2014-04-29T20:00:00.000Z",
+		"talks": [
+			{
+				"title": "Ember Data",
+				"speaker": {
+					"twitter": "tair",
+					"portrait": "",
+					"name": "Tair Assimov"
+				},
+				"level": "Intermediate",
+				"language": "en",
+				"git": "",
+				"slides": "",
+				"video": "",
+				"description": "The Ember Data 1.0, which is a persistence layer for EmberJS, is around the corner. For beginners its a good time to start learning this important component of EmberJS framework, whereas more experienced developers will find it useful to know what's going to change. We will start with introduction of Ember Data, then decompose a sample app to look at how its used there, and finally wrap up with some major changes coming up in the first stable release."
+			}
+		]
+	},
+	{
 		"date": "2014-05-27T19:15:00.000Z",
 		"talks": [
 			{
