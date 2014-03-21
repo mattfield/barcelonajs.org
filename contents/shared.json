@@ -63,6 +63,21 @@
                 "email": "mobile@barcelonajs.org",
                 "twitter": "alina_mierlus"
             }
+        },
+        {
+            "label": "EmberJS",
+            "members": [
+                {
+                    "name": "Miguel Camba",
+                    "portrait": "assets/team/miguel.jpg",
+                    "twitter": "MiguelCamba"
+                },
+                {
+                    "name": "Tair Assimov",
+                    "portrait": "assets/team/tair.png",
+                    "twitter": "tair"
+                }
+            ]
         }
     ]
 }
