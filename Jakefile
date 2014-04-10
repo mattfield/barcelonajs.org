@@ -29,9 +29,19 @@ task('archive', [], function () {
 	var
 		history = [];
 
+	bcnjs2013.forEach(function (event) {
+		var event_date = new Date(event.date);
+		if (event.talks && event.talks.length >= 0) {
+			if (event_date <= new Date()) {
+				event.talks.reverse();
+				history.push(event);
+			}
+		}
+	});
+
 	bcnjs2014.forEach(function (event) {
 		var event_date = new Date(event.date);
-		if (event.talks) {
+		if (event.talks && event.talks.length >= 0) {
 			if (event_date <= new Date()) {
 				event.talks.reverse();
 				history.push(event);
