@@ -88,20 +88,6 @@
 				"slides": "",
 				"video": "",
 				"description": "AngularJS uses its HTML directives at the core of its UI generation. That means that you specify how to generate the HTML using HTML. Part of that logic has been moved to the controller functions, but part of it cannot be moved. The result is imperative constructs like ng-if and ng-repeat inside the declarative HTML template. The mismatch between an imperative problem and a declarative tool ends up in a messy solution in the long run. JSP tried the same thing with custom tag libraries, and failed. XSL tried the same thing, and failed too. This talk will get into deeper detail about why I believe that the HTML directives - one of the core elements that AngularJS is praised for - is not such a great solution for UI generation."
-			},
-			{
-				"title": "Ember Data",
-				"speaker": {
-					"twitter": "tair",
-					"portrait": "",
-					"name": "Tair Assimov"
-				},
-				"level": "Intermediate",
-				"language": "en",
-				"git": "",
-				"slides": "",
-				"video": "",
-				"description": "The Ember Data 1.0, which is a persistence layer for EmberJS, is around the corner. For beginners its a good time to start learning this important component of EmberJS framework, whereas more experienced developers will find it useful to know what's going to change. We will start with introduction of Ember Data, then decompose a sample app to look at how its used there, and finally wrap up with some major changes coming up in the first stable release."
 			}
 		]
 	},
@@ -121,6 +107,20 @@
 				"slides": "",
 				"video": "",
 				"description": "Foxx is a server-side JavaScript application framework that – instead of being a separate application layer is directly integrated into the open source NoSQL database ArangoDB. Foxx helps you structure your application using the MVC pattern and you can put everything into version control. Still it reduces redundancy in database communication and provides direct access to all features of ArangoDB like graph traversals or the query language AQL. Furthermore it automatically generates an interactive API documentation with just a few annotations. Foxx integrates both with modern client-side MVC frameworks or can be used behind your server-side application to reduce roundtrips to the database."
+			},
+			{
+				"title": "Ember Data",
+				"speaker": {
+					"twitter": "tair",
+					"portrait": "",
+					"name": "Tair Assimov"
+				},
+				"level": "Intermediate",
+				"language": "en",
+				"git": "",
+				"slides": "",
+				"video": "",
+				"description": "The Ember Data 1.0, which is a persistence layer for EmberJS, is around the corner. For beginners its a good time to start learning this important component of EmberJS framework, whereas more experienced developers will find it useful to know what's going to change. We will start with introduction of Ember Data, then decompose a sample app to look at how its used there, and finally wrap up with some major changes coming up in the first stable release."
 			}
 		]
 	},
