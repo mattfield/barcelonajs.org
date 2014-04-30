@@ -113,7 +113,7 @@
 				"level": "Beginner",
 				"language": "en",
 				"git": "franciov",
-				"slides": "http://www.slideshare.net/franciov",
+				"slides": "https://twitter.com/franciov/statuses/461288608172113920",
 				"video": "",
 				"description": "One of the main weaknesses of web applications is that browsers can access a limited set of device services, such as geolocation, device orientation etc. In this talk I would like to explore how the W3C and browser vendors are working together to enable the development of Open Web Apps that can access device hardware and sensors through Javascript, and show you some of the Firefox OS demo apps I wrote for the Mozilla Developer Network (MDN)."
 			}
