@@ -156,6 +156,20 @@
 				"slides": "",
 				"video": "",
 				"description": "The Ember Data 1.0, which is a persistence layer for EmberJS, is around the corner. For beginners its a good time to start learning this important component of EmberJS framework, whereas more experienced developers will find it useful to know what's going to change. We will start with introduction of Ember Data, then decompose a sample app to look at how its used there, and finally wrap up with some major changes coming up in the first stable release."
+			},
+			{
+				"title": "JS and Patterns",
+				"speaker": {
+					"twitter": "drpicox",
+					"portrait": "https://avatars1.githubusercontent.com/u/2758345?s=460",
+					"name": "David Rodenas"
+				},
+				"level": "Intermediate",
+				"language": "en",
+				"git": "",
+				"slides": "http://david-rodenas.com/JSandPatterns.pdf",
+				"video": "",
+				"description": "Software patterns allows to create easier to maintain applications. This presentation will show some basics and how to take advantage of them and fight bad habits."
 			}
 		]
 	},
