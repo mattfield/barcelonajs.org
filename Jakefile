@@ -17,11 +17,17 @@ task('copy', [], function () {
 		}
 	});
 
-	fs.writeFile('./contents/_index/events.json', JSON.stringify(next_event.talks), function (err) {
-		console.info('Done. Next event: ' + new Date(next_event.date).toDateString());
-		complete();
-	});
-
+	if (next_event.special) {
+		fs.writeFile('./contents/_index/events.json', JSON.stringify(next_event.special), function (err) {
+			console.info('Done. Next event: ' + new Date(next_event.date).toDateString());
+			complete();
+		});
+	} else {
+		fs.writeFile('./contents/_index/events.json', JSON.stringify(next_event.talks), function (err) {
+			console.info('Done. Next event: ' + new Date(next_event.date).toDateString());
+			complete();
+		});
+	}
 }, true);
 
 task('archive', [], function () {
