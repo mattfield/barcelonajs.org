@@ -1,8 +1,8 @@
-<article class="event">
-  {{#if header}}
-    <h2>{{header}}</h2>
-    <p>{{{content}}}</p>
-  {{else}}
+{{#if header}}
+  <h2>{{header}}</h2>
+  <p>{{{content}}}</p>
+{{else}}
+  <article class="event">
     <header class="speaker">
   		{{#if speaker}}
         {{#if speaker.portrait}}
@@ -29,5 +29,5 @@
   	{{else}}
   	<p><strong>This slot could be yours! Submit your talk now.</strong>  You did some crazy stuff with JavaScript? You want to show it to the community? Drop us a line on your topic on <a href="https://twitter.com/bcnjs">Twitter</a> or to <a href="https://plus.google.com/u/0/communities/115705669406517039298">Google+</a>.</p>
   	{{/if}}
-  {{/if}}
-</article>
+  </article>
+{{/if}}
