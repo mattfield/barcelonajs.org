@@ -1,1 +1,8 @@
-[]
+[{"title":"Tern: making your editor understand JS",
+  "speaker":{"twitter":"marijnjh","portrait":"https://avatars3.githubusercontent.com/u/144427?s=460","name":"Marijn Haverbeke"},
+  "level":"Intermediate",
+  "language":"en",
+  "git":"",
+  "slides":"http://marijnhaverbeke.nl/talks/webrebels2014"
+  "video":"",
+  "description":"Tern is an attempt to improve the editor integration situation for JavaScript. It is a stand-alone type inference engine that talks to editor plugins to provide type information, completion, and other helpful features. I'll show what Tern can do, and explain how it does it."}]
