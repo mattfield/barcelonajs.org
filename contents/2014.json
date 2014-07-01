@@ -179,7 +179,20 @@
               "slides": "",
               "video": "",
               "description": "A brief history of client-side storage followed by a more in-depth review of Web Storage, Web SQL Database and Indexed Database before concluding with a look towards the Filesystem API"
-          }, {}
+          },
+          {
+              "title": "Mastering JavaScript: Prototypal Inheritance",
+              "speaker": {
+                  "portrait": "http://www.gravatar.com/avatar/f3bad9b06a1b0512c5c837f28dddd985.png?s=400",
+                  "name": "Francisco Mendez"
+              },
+              "level": "Intermediate",
+              "language": "en",
+              "git": "",
+              "slides": "",
+              "video": "",
+              "description": "An in-depth session on what is a prototype, how prototypal inheritance works and strengths and weaknesses of using them."
+          }
       ]
   },
   {
