@@ -141,7 +141,7 @@
     "slides": "http://marijnhaverbeke.nl/talks/webrebels2014",
     "video": "",
     "description": "Tern is an attempt to improve the editor integration situation for JavaScript. It is a stand-alone type inference engine that talks to editor plugins to provide type information, completion, and other helpful features. I'll show what Tern can do, and explain how it does it."
-  }, {}]
+  }]
 }, {
   "date": "2014-07-22T19:15:00.000Z",
   "talks": [{
@@ -170,6 +170,20 @@
     "description": "Rendimiento en Javascript: explicaremos algunas técnicas, haremos una recopilación de buenas prácticas  y utilizaremos alguna herramienta para identificar problemas de rendimiento, lo que no ayudará a hacer buenas implementaciones."
   }]
 }, {
+  "date": "2014-08-13T19:00:00.000Z",
+  "talks": {
+    "title": "BeachJS: Beachvolleyball and Beers",
+    "level": "Beginner",
+    "language": "en",
+    "speaker": {
+      "twitter": "bcnjs",
+      "name": "BarcelonaJS",
+      "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+    },
+    "description": "We meet at Platja Nova Icaria at 18.30 to play some volleyball and have a beer and talk JavaScript in the chiringuito after."
+  }
+},
+{
   "date": "2014-09-10T22:00:00.000Z",
   "talks": [{
     "title": "Mastering JavaScript: Prototypal Inheritance",
