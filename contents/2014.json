@@ -148,13 +148,14 @@
     "title": "Client-Side Storage: Past, Present and Future",
     "speaker": {
       "portrait": "http://www.philipbattle.co.uk/images/profile_photo_v1.jpg",
-      "name": "Philip Battle"
+      "name": "Philip Battle",
+      "twitter": "philipbattle"
     },
     "level": "Intermediate",
     "language": "en",
     "git": "",
-    "slides": "",
-    "video": "",
+    "slides": "https://speakerdeck.com/philipbattle/client-side-storage-past-present-and-future",
+    "video": "https://vimeo.com/102811136",
     "description": "A brief history of client-side storage followed by a more in-depth review of Web Storage, Web SQL Database and Indexed Database before concluding with a look towards the Filesystem API"
   }, {
     "title": "JavaScript y por qué no comparar la velocidad con el tocino",
@@ -166,7 +167,7 @@
     "language": "es",
     "git": "",
     "slides": "",
-    "video": "",
+    "video": "https://vimeo.com/102811135",
     "description": "Rendimiento en Javascript: explicaremos algunas técnicas, haremos una recopilación de buenas prácticas  y utilizaremos alguna herramienta para identificar problemas de rendimiento, lo que no ayudará a hacer buenas implementaciones."
   }]
 }, {
