@@ -185,6 +185,34 @@
   }
 },
 {
+  "date": "2014-09-18T19:00:00.000Z",
+  "talks": {
+    "title": "AngularJS and BarcelonaJS Open Space at MOB",
+    "level": "-",
+    "language": "-",
+    "speaker": {
+      "twitter": "bcnjs",
+      "name": "BarcelonaJS",
+      "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+    },
+    "description": "To have something unusual, we're going to meet at our last-years venue MOB in C/ Bailen 11 and have an Open Space together with AngularJS Barcelona."
+  }
+},
+{
+  "date": "2014-10-04T09:00:00.000Z",
+  "talks": {
+    "title": "WeNode - Barcelona Node.js Conference",
+    "level": "-",
+    "language": "en",
+    "speaker": {
+      "twitter": "bcnjs",
+      "name": "BarcelonaJS",
+      "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+    },
+    "description": "Get all the details and your ticket on the special event site http://wenode.barcelonajs.org"
+  }
+},
+{
   "date": "2014-09-10T22:00:00.000Z",
   "talks": [{
     "title": "Mastering JavaScript: Prototypal Inheritance",
