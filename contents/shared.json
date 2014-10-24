@@ -35,6 +35,11 @@
           "twitter": "isabelcabezasm",
           "portrait": "assets/team/isabel.jpg",
           "email": "isabel@barcelonajs.org"
+        },
+        {
+          "name": "David Rodenas",
+          "portrait": "assets/team/david.jpg",
+          "twitter": "drpicox"
         }
       ]
     },
@@ -56,12 +61,17 @@
       ]
     },
     {
-      "label": "EmberJS",
+      "label": "Node.js Barcelona",
       "members": [
         {
-          "name": "Miguel Camba",
-          "portrait": "assets/team/miguel.jpg",
-          "twitter": "MiguelCamba"
+          "name": "Patrick Heneise",
+          "portrait": "assets/team/patrick.jpg",
+          "twitter": "PatrickHeneise"
+        },
+        {
+          "name": "David Rodenas",
+          "portrait": "assets/team/david.jpg",
+          "twitter": "drpicox"
         }
       ]
     },
