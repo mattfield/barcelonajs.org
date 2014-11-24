@@ -223,7 +223,17 @@
 		"portrait":""
 	},
 	"description":"En esta charla haremos un aperitivo picoteando en cada una de las novedades que incorpora(rá) la futura versión de JavaScript"
-  }, {}]
+  }, {
+  	"title": "Una simple app con Meteor 1.0!",
+  	"level": "Beginner",
+  	"language": "es",
+  	"speaker": {
+  		"name": "Sergi Cortés",
+  		"twitter": "sergi_c",
+  		"portait": ""
+  	},
+  	"description": "Una introducción al framework Meteor con la creación de una simple app"
+  }]
 }, {
   "date": "2014-12-23T23:00:00.000Z",
   "talks": [{}, {}]
