@@ -245,6 +245,7 @@
   		"twitter": "@javier_arilos",
   		"portait": "https://pbs.twimg.com/profile_images/461760331786637312/3ElOhEpW.jpeg"
   	},
-  	"description": "Message Buses have been used for a long time in backend applications to seamlessly have them working together. Browser frontend applications now can benefit as well of a Message Bus architecture in the browser with libraries such as postal.js. In this talk we will explore how we can connect this Frontend and Backend buses with Javascript applications to coin yet another new name: Full-Stack-Bus."
+  	"description": "Message Buses have been used for a long time in backend applications to seamlessly have them working together. Browser frontend applications now can benefit as well of a Message Bus architecture in the browser with libraries such as postal.js. In this talk we will explore how we can connect this Frontend and Backend buses with Javascript applications to coin yet another new name: Full-Stack-Bus.",
+  	"slides": "http://www.slideshare.net/javierarilos/full-stack-bus-with-javascript-rabbitmq-and-postaljs"
   },{}, {}]
 }]
