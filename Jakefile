@@ -1,6 +1,7 @@
 fs = require('fs');
 bcnjs2013 = require('./contents/2013');
 bcnjs2014 = require('./contents/2014');
+bcnjs2015 = require('./contents/2015');
 
 desc('Monthly talks');
 task('copy', [], function () {
@@ -9,7 +10,7 @@ task('copy', [], function () {
 		found = false,
 		next_event = {};
 
-	bcnjs2014.forEach(function (event) {
+	bcnjs2015.forEach(function (event) {
 		var event_date = new Date(event.date);
 		if (event_date >= new Date() && !found) {
 			next_event = event;
@@ -46,6 +47,16 @@ task('archive', [], function () {
 	});
 
 	bcnjs2014.forEach(function (event) {
+		var event_date = new Date(event.date);
+		if (event.talks && event.talks.length >= 0) {
+			if (event_date <= new Date()) {
+				event.talks.reverse();
+				history.push(event);
+			}
+		}
+	});
+
+	bcnjs2015.forEach(function (event) {
 		var event_date = new Date(event.date);
 		if (event.talks && event.talks.length >= 0) {
 			if (event_date <= new Date()) {

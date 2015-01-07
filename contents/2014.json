@@ -1,250 +1,251 @@
 [{
-  "date": "2014-01-24T23:00:00.000Z",
-  "special": {
-    "header": "AngularJS Special",
-    "content": ""
-  }
+    "date": "2014-01-24T23:00:00.000Z",
+    "special": {
+      "header": "AngularJS Special",
+      "content": ""
+    }
 }, {
-  "date": "2014-02-12T23:00:00.000Z",
-  "talks": [{
-    "title": "Using the API Blueprint to generate nodejs consumers",
-    "speaker": {
-      "twitter": "bpedro",
-      "name": "Bruno Pedro",
-      "portrait": "https://pbs.twimg.com/profile_images/378800000473642830/2f20ecdcd1ec41452b174d04a69e87ee.jpeg"
-    },
-    "level": "Intermediate",
-    "language": "en",
-    "git": "",
-    "slides": "http://www.slideshare.net/bpedro/api-code-generation",
-    "video": "https://vimeo.com/87488883",
-    "description": "I'll show you how to generate a nodejs API consumer by using the API Blueprint (http://apiblueprint.org/) to generate code from a Postman (http://www.getpostman.com/) collection."
-  }, {
-    "title": "Introduction to testing with AngularJS",
-    "speaker": {
-      "twitter": "VictorBjelkholm",
-      "portrait": "https://pbs.twimg.com/profile_images/378800000087315087/e5a78bb2b5c3051fdffed458ff6d7e9b.jpeg",
-      "name": "Victor Bjelkholm"
-    },
-    "level": "Intermediate",
-    "language": "en",
-    "git": "",
-    "slides": "",
-    "video": "",
-    "description": "Introduction to testing with AngularJS will be the talk for you if you've always been interested what testing is but never took the step to finally start doing it. The talk will be mainly focused on testing basics and unit testing in AngularJS"
-  }]
+    "date": "2014-02-12T23:00:00.000Z",
+    "talks": [{
+      "title": "Using the API Blueprint to generate nodejs consumers",
+      "speaker": {
+        "twitter": "bpedro",
+        "name": "Bruno Pedro",
+        "portrait": "https://pbs.twimg.com/profile_images/378800000473642830/2f20ecdcd1ec41452b174d04a69e87ee.jpeg"
+      },
+      "level": "Intermediate",
+      "language": "en",
+      "git": "",
+      "slides": "http://www.slideshare.net/bpedro/api-code-generation",
+      "video": "https://vimeo.com/87488883",
+      "description": "I'll show you how to generate a nodejs API consumer by using the API Blueprint (http://apiblueprint.org/) to generate code from a Postman (http://www.getpostman.com/) collection."
 }, {
-  "date": "2014-03-13T23:00:00.000Z",
-  "talks": [{
-    "title": "Backbone, Marionette and other puppets",
-    "speaker": {
-      "twitter": "ainformatico",
-      "name": "Alejandro El Informatico",
-      "portrait": ""
-    },
-    "level": "Intermediate",
-    "language": "es/en",
-    "git": "",
-    "slides": "http://www.alejandroelinformatico.com/slideshows/en/marionette-js/#/",
-    "video": "https://vimeo.com/89510571",
-    "description": "Now that you know Backbone.js is time to become a puppeteer and use Marionette.js, a composite application library for Backbone.js that aims to simplify the construction of large scale Javascript applications."
-  }, {
-    "title": "Meet Ember.js",
-    "speaker": {
-      "twitter": "miguelcamba",
-      "portrait": "https://pbs.twimg.com/profile_images/1283021990/foto_180.jpg",
-      "name": "Miguel Camba"
-    },
-    "level": "Beginner",
-    "language": "en",
-    "git": "",
-    "slides": "http://miguelcamba.com/talks/meet-ember-js/",
-    "video": "https://vimeo.com/89488271",
-    "description": "There's a new framework in town. Probably you've heard about it. It's time to know what's all the buzz about. A brief introduction to Ember as a framework and the phylosophy behind it."
-  }]
+      "title": "Introduction to testing with AngularJS",
+      "speaker": {
+        "twitter": "VictorBjelkholm",
+        "portrait": "https://pbs.twimg.com/profile_images/378800000087315087/e5a78bb2b5c3051fdffed458ff6d7e9b.jpeg",
+        "name": "Victor Bjelkholm"
+      },
+      "level": "Intermediate",
+      "language": "en",
+      "git": "",
+      "slides": "",
+      "video": "",
+      "description": "Introduction to testing with AngularJS will be the talk for you if you've always been interested what testing is but never took the step to finally start doing it. The talk will be mainly focused on testing basics and unit testing in AngularJS"
+}]
 }, {
-  "date": "2014-04-29T19:15:00.000Z",
-  "talks": [{
-    "title": "AngularJS and the Declarative / Imperative Impedance Mismatch",
-    "speaker": {
-      "twitter": "jjenkov",
-      "portrait": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg",
-      "name": "Jakob Jenkov"
-    },
-    "level": "Expert",
-    "language": "en",
-    "git": "",
-    "slides": "",
-    "video": "https://vimeo.com/94741153",
-    "description": "AngularJS uses its HTML directives at the core of its UI generation. That means that you specify how to generate the HTML using HTML. Part of that logic has been moved to the controller functions, but part of it cannot be moved. The result is imperative constructs like ng-if and ng-repeat inside the declarative HTML template. The mismatch between an imperative problem and a declarative tool ends up in a messy solution in the long run. JSP tried the same thing with custom tag libraries, and failed. XSL tried the same thing, and failed too. This talk will get into deeper detail about why I believe that the HTML directives - one of the core elements that AngularJS is praised for - is not such a great solution for UI generation."
-  }, {
-    "title": "Introduction to Typescript",
-    "speaker": {
-      "twitter": "xperiments",
-      "portrait": "http://xperiments.github.io/xperiments_avatar.png",
-      "name": "Pedro Casaubon"
-    },
-    "level": "Intermediate",
-    "language": "es",
-    "git": "",
-    "slides": "http://slides.com/pedrocasaubon/typescriptbcnjs",
-    "video": "https://vimeo.com/94741154",
-    "description": "Typescript is a new source-to-source compiler, transcompiler, transpiler or whatever you like to name it.His top features are:Aligned to ES6, Static Typing, Classes, Modules, Enums and Generics. We will see some benefits of using it with code samples and some tooling that enhances our workflow."
-  }, {
-    "title": "WebAPI in Open Web Apps and Firefox OS",
-    "speaker": {
-      "twitter": "franciov",
-      "portrait": "http://www.francesco.iovine.name/images/foto@2x.png",
-      "name": "Francesco Iovine"
-    },
-    "level": "Beginner",
-    "language": "en",
-    "git": "franciov",
-    "slides": "https://twitter.com/franciov/statuses/461288608172113920",
-    "video": "https://vimeo.com/94973394",
-    "description": "One of the main weaknesses of web applications is that browsers can access a limited set of device services, such as geolocation, device orientation etc. In this talk I would like to explore how the W3C and browser vendors are working together to enable the development of Open Web Apps that can access device hardware and sensors through Javascript, and show you some of the Firefox OS demo apps I wrote for the Mozilla Developer Network (MDN)."
-  }]
+    "date": "2014-03-13T23:00:00.000Z",
+    "talks": [{
+      "title": "Backbone, Marionette and other puppets",
+      "speaker": {
+        "twitter": "ainformatico",
+        "name": "Alejandro El Informatico",
+        "portrait": ""
+      },
+      "level": "Intermediate",
+      "language": "es/en",
+      "git": "",
+      "slides": "http://www.alejandroelinformatico.com/slideshows/en/marionette-js/#/",
+      "video": "https://vimeo.com/89510571",
+      "description": "Now that you know Backbone.js is time to become a puppeteer and use Marionette.js, a composite application library for Backbone.js that aims to simplify the construction of large scale Javascript applications."
 }, {
-  "date": "2014-05-24T09:30:00.000Z",
-  "special": {
-    "header": "MobileJS",
-    "content": "<p>A one day conference about the JavaScript mobile revolution. Talks, demos, workshops, expert tables with test devices, and more packed into a single day of JavaScript awesomeness.</p><p>Una conferència d'un dia sobre les possibilitats del JavaScript a l'entorn mòbil. Hi haurà xerrades, demos, tallers i llocs de trobada amb experts que mostraran en viu diferents dispositius mòbils amb l'última tecnologia JavaScript.</p><p>Una conferencia de un día, con motivo de la revolución móvil, usando JavaScript como vehículo de desarrollo; habrán charlas, demos, tallers y mesas de expertos con dispositivos y mas, todo en un dia de JavaScript.</p><a class='btn btn-default btn-lg' href='http://mobile.barcelonajs.org'>MobileJS Information</a><a class='btn btn-lg btn-default' href='https://ti.to/barcelonajs/mobilejs'>Registration & Tickets</a>"
-  }
+      "title": "Meet Ember.js",
+      "speaker": {
+        "twitter": "miguelcamba",
+        "portrait": "https://pbs.twimg.com/profile_images/1283021990/foto_180.jpg",
+        "name": "Miguel Camba"
+      },
+      "level": "Beginner",
+      "language": "en",
+      "git": "",
+      "slides": "http://miguelcamba.com/talks/meet-ember-js/",
+      "video": "https://vimeo.com/89488271",
+      "description": "There's a new framework in town. Probably you've heard about it. It's time to know what's all the buzz about. A brief introduction to Ember as a framework and the phylosophy behind it."
+}]
 }, {
-  "date": "2014-05-27T19:15:00.000Z",
-  "talks": [{
-    "title": "JS and Patterns",
-    "speaker": {
-      "twitter": "drpicox",
-      "portrait": "https://avatars1.githubusercontent.com/u/2758345?s=460",
-      "name": "David Rodenas"
-    },
-    "level": "Intermediate",
-    "language": "en",
-    "git": "",
-    "slides": "http://david-rodenas.com/JSandPatterns.pdf",
-    "video": "",
-    "description": "Software patterns allows to create easier to maintain applications. This presentation will show some basics and how to take advantage of them and fight bad habits."
-  }]
+    "date": "2014-04-29T19:15:00.000Z",
+    "talks": [{
+      "title": "AngularJS and the Declarative / Imperative Impedance Mismatch",
+      "speaker": {
+        "twitter": "jjenkov",
+        "portrait": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg",
+        "name": "Jakob Jenkov"
+      },
+      "level": "Expert",
+      "language": "en",
+      "git": "",
+      "slides": "",
+      "video": "https://vimeo.com/94741153",
+      "description": "AngularJS uses its HTML directives at the core of its UI generation. That means that you specify how to generate the HTML using HTML. Part of that logic has been moved to the controller functions, but part of it cannot be moved. The result is imperative constructs like ng-if and ng-repeat inside the declarative HTML template. The mismatch between an imperative problem and a declarative tool ends up in a messy solution in the long run. JSP tried the same thing with custom tag libraries, and failed. XSL tried the same thing, and failed too. This talk will get into deeper detail about why I believe that the HTML directives - one of the core elements that AngularJS is praised for - is not such a great solution for UI generation."
 }, {
-  "date": "2014-06-17T19:15:00.000Z",
-  "talks": [{
-    "title": "Tern: making your editor understand JS",
-    "speaker": {
-      "twitter": "marijnjh",
-      "portrait": "https://www.webrebels.org/img/speakers/marijn.png",
-      "name": "Marijn Haverbeke"
-    },
-    "level": "Intermediate",
-    "language": "en",
-    "git": "",
-    "slides": "http://marijnhaverbeke.nl/talks/webrebels2014",
-    "video": "",
-    "description": "Tern is an attempt to improve the editor integration situation for JavaScript. It is a stand-alone type inference engine that talks to editor plugins to provide type information, completion, and other helpful features. I'll show what Tern can do, and explain how it does it."
-  }]
+      "title": "Introduction to Typescript",
+      "speaker": {
+        "twitter": "xperiments",
+        "portrait": "http://xperiments.github.io/xperiments_avatar.png",
+        "name": "Pedro Casaubon"
+      },
+      "level": "Intermediate",
+      "language": "es",
+      "git": "",
+      "slides": "http://slides.com/pedrocasaubon/typescriptbcnjs",
+      "video": "https://vimeo.com/94741154",
+      "description": "Typescript is a new source-to-source compiler, transcompiler, transpiler or whatever you like to name it.His top features are:Aligned to ES6, Static Typing, Classes, Modules, Enums and Generics. We will see some benefits of using it with code samples and some tooling that enhances our workflow."
 }, {
-  "date": "2014-07-22T19:15:00.000Z",
-  "talks": [{
-    "title": "Client-Side Storage: Past, Present and Future",
-    "speaker": {
-      "portrait": "http://www.philipbattle.co.uk/images/profile_photo_v1.jpg",
-      "name": "Philip Battle",
-      "twitter": "philipbattle"
-    },
-    "level": "Intermediate",
-    "language": "en",
-    "git": "",
-    "slides": "https://speakerdeck.com/philipbattle/client-side-storage-past-present-and-future",
-    "video": "https://vimeo.com/102811136",
-    "description": "A brief history of client-side storage followed by a more in-depth review of Web Storage, Web SQL Database and Indexed Database before concluding with a look towards the Filesystem API"
-  }, {
-    "title": "JavaScript y por qué no comparar la velocidad con el tocino",
-    "speaker": {
-      "portrait": "http://www.isabelcabezas.net/charla_bcnjs.jpeg",
-      "name": "Isabel Cabezas / Toni Recio"
-    },
-    "level": "Intermediate",
-    "language": "es",
-    "git": "",
-    "slides": "",
-    "video": "https://vimeo.com/102811135",
-    "description": "Rendimiento en Javascript: explicaremos algunas técnicas, haremos una recopilación de buenas prácticas  y utilizaremos alguna herramienta para identificar problemas de rendimiento, lo que no ayudará a hacer buenas implementaciones."
-  }]
+      "title": "WebAPI in Open Web Apps and Firefox OS",
+      "speaker": {
+        "twitter": "franciov",
+        "portrait": "http://www.francesco.iovine.name/images/foto@2x.png",
+        "name": "Francesco Iovine"
+      },
+      "level": "Beginner",
+      "language": "en",
+      "git": "franciov",
+      "slides": "https://twitter.com/franciov/statuses/461288608172113920",
+      "video": "https://vimeo.com/94973394",
+      "description": "One of the main weaknesses of web applications is that browsers can access a limited set of device services, such as geolocation, device orientation etc. In this talk I would like to explore how the W3C and browser vendors are working together to enable the development of Open Web Apps that can access device hardware and sensors through Javascript, and show you some of the Firefox OS demo apps I wrote for the Mozilla Developer Network (MDN)."
+}]
 }, {
-  "date": "2014-08-13T19:00:00.000Z",
-  "talks": {
-    "title": "BeachJS: Beachvolleyball and Beers",
-    "level": "Beginner",
-    "language": "en",
-    "speaker": {
-      "twitter": "bcnjs",
-      "name": "BarcelonaJS",
-      "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
-    },
-    "description": "We meet at Platja Nova Icaria at 18.30 to play some volleyball and have a beer and talk JavaScript in the chiringuito after."
-  }
+    "date": "2014-05-24T09:30:00.000Z",
+    "special": {
+      "header": "MobileJS",
+      "content": "<p>A one day conference about the JavaScript mobile revolution. Talks, demos, workshops, expert tables with test devices, and more packed into a single day of JavaScript awesomeness.</p><p>Una conferència d'un dia sobre les possibilitats del JavaScript a l'entorn mòbil. Hi haurà xerrades, demos, tallers i llocs de trobada amb experts que mostraran en viu diferents dispositius mòbils amb l'última tecnologia JavaScript.</p><p>Una conferencia de un día, con motivo de la revolución móvil, usando JavaScript como vehículo de desarrollo; habrán charlas, demos, tallers y mesas de expertos con dispositivos y mas, todo en un dia de JavaScript.</p><a class='btn btn-default btn-lg' href='http://mobile.barcelonajs.org'>MobileJS Information</a><a class='btn btn-lg btn-default' href='https://ti.to/barcelonajs/mobilejs'>Registration & Tickets</a>"
+    }
+}, {
+    "date": "2014-05-27T19:15:00.000Z",
+    "talks": [{
+      "title": "JS and Patterns",
+      "speaker": {
+        "twitter": "drpicox",
+        "portrait": "https://avatars1.githubusercontent.com/u/2758345?s=460",
+        "name": "David Rodenas"
+      },
+      "level": "Intermediate",
+      "language": "en",
+      "git": "",
+      "slides": "http://david-rodenas.com/JSandPatterns.pdf",
+      "video": "",
+      "description": "Software patterns allows to create easier to maintain applications. This presentation will show some basics and how to take advantage of them and fight bad habits."
+}]
+}, {
+    "date": "2014-06-17T19:15:00.000Z",
+    "talks": [{
+      "title": "Tern: making your editor understand JS",
+      "speaker": {
+        "twitter": "marijnjh",
+        "portrait": "https://www.webrebels.org/img/speakers/marijn.png",
+        "name": "Marijn Haverbeke"
+      },
+      "level": "Intermediate",
+      "language": "en",
+      "git": "",
+      "slides": "http://marijnhaverbeke.nl/talks/webrebels2014",
+      "video": "",
+      "description": "Tern is an attempt to improve the editor integration situation for JavaScript. It is a stand-alone type inference engine that talks to editor plugins to provide type information, completion, and other helpful features. I'll show what Tern can do, and explain how it does it."
+}]
+}, {
+    "date": "2014-07-22T19:15:00.000Z",
+    "talks": [{
+      "title": "Client-Side Storage: Past, Present and Future",
+      "speaker": {
+        "portrait": "http://www.philipbattle.co.uk/images/profile_photo_v1.jpg",
+        "name": "Philip Battle",
+        "twitter": "philipbattle"
+      },
+      "level": "Intermediate",
+      "language": "en",
+      "git": "",
+      "slides": "https://speakerdeck.com/philipbattle/client-side-storage-past-present-and-future",
+      "video": "https://vimeo.com/102811136",
+      "description": "A brief history of client-side storage followed by a more in-depth review of Web Storage, Web SQL Database and Indexed Database before concluding with a look towards the Filesystem API"
+}, {
+      "title": "JavaScript y por qué no comparar la velocidad con el tocino",
+      "speaker": {
+        "portrait": "http://www.isabelcabezas.net/charla_bcnjs.jpeg",
+        "name": "Isabel Cabezas / Toni Recio"
+      },
+      "level": "Intermediate",
+      "language": "es",
+      "git": "",
+      "slides": "",
+      "video": "https://vimeo.com/102811135",
+      "description": "Rendimiento en Javascript: explicaremos algunas técnicas, haremos una recopilación de buenas prácticas  y utilizaremos alguna herramienta para identificar problemas de rendimiento, lo que no ayudará a hacer buenas implementaciones."
+}]
+}, {
+    "date": "2014-08-13T19:00:00.000Z",
+    "talks": {
+      "title": "BeachJS: Beachvolleyball and Beers",
+      "level": "Beginner",
+      "language": "en",
+      "speaker": {
+        "twitter": "bcnjs",
+        "name": "BarcelonaJS",
+        "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+      },
+      "description": "We meet at Platja Nova Icaria at 18.30 to play some volleyball and have a beer and talk JavaScript in the chiringuito after."
+    }
 },
-{
-  "date": "2014-09-18T19:00:00.000Z",
-  "talks": {
-    "title": "AngularJS and BarcelonaJS Open Space at MOB",
-    "level": "-",
-    "language": "-",
-    "speaker": {
-      "twitter": "bcnjs",
-      "name": "BarcelonaJS",
-      "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
-    },
-    "description": "To have something unusual, we're going to meet at our last-years venue MOB in C/ Bailen 11 and have an Open Space together with AngularJS Barcelona."
-  }
+  {
+    "date": "2014-09-18T19:00:00.000Z",
+    "talks": {
+      "title": "AngularJS and BarcelonaJS Open Space at MOB",
+      "level": "-",
+      "language": "-",
+      "speaker": {
+        "twitter": "bcnjs",
+        "name": "BarcelonaJS",
+        "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+      },
+      "description": "To have something unusual, we're going to meet at our last-years venue MOB in C/ Bailen 11 and have an Open Space together with AngularJS Barcelona."
+    }
 },
-{
-  "date": "2014-10-04T09:00:00.000Z",
-  "talks": {
-    "title": "WeNode - Barcelona Node.js Conference",
-    "level": "-",
-    "language": "en",
-    "speaker": {
-      "twitter": "bcnjs",
-      "name": "BarcelonaJS",
-      "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
-    },
-    "description": "Get all the details and your ticket on the special event site http://wenode.barcelonajs.org"
-  }
+  {
+    "date": "2014-10-04T09:00:00.000Z",
+    "talks": {
+      "title": "WeNode - Barcelona Node.js Conference",
+      "level": "-",
+      "language": "en",
+      "speaker": {
+        "twitter": "bcnjs",
+        "name": "BarcelonaJS",
+        "portrait": "https://pbs.twimg.com/profile_images/3766360947/b73301d19e3fd4a1f9bced47ede203a1.png"
+      },
+      "description": "Get all the details and your ticket on the special event site http://wenode.barcelonajs.org"
+    }
 }, {
-  "date": "2014-11-26T23:00:00.000Z",
-  "talks": [{
-	"title": "¡Una tapa de ES6 por favor!",
-	"level":"Beginner",
-	"language":"es",
-	"speaker": {
-		"twitter":"eiximenis",
-		"name":"Eduard Tomàs",
-		"portrait":""
-	},
-	"description":"En esta charla haremos un aperitivo picoteando en cada una de las novedades que incorpora(rá) la futura versión de JavaScript"
-  }, {
-  	"title": "Una simple app con Meteor 1.0!",
-  	"level": "Beginner",
-  	"language": "es",
-  	"speaker": {
-  		"name": "Sergi Cortés",
-  		"twitter": "sergi_c",
-  		"portait": ""
-  	},
-  	"description": "Una introducción al framework Meteor con la creación de una simple app"
-  }]
+    "date": "2014-11-26T23:00:00.000Z",
+    "talks": [{
+      "title": "¡Una tapa de ES6 por favor!",
+      "level": "Beginner",
+      "language": "es",
+      "speaker": {
+        "twitter": "eiximenis",
+        "name": "Eduard Tomàs",
+        "portrait": ""
+      },
+      "description": "En esta charla haremos un aperitivo picoteando en cada una de las novedades que incorpora(rá) la futura versión de JavaScript"
 }, {
-  "date": "2014-12-21T23:00:00.000Z",
-  "talks": [{
-  	"title": "Fullstack Message Bus with Javascript, RabbitMQ and postal.js ",
-  	"level": "Beginner",
-  	"language": "es",
-  	"speaker": {
-  		"name": "Javier Arias",
-  		"twitter": "@javier_arilos",
-  		"portait": "https://pbs.twimg.com/profile_images/461760331786637312/3ElOhEpW.jpeg"
-  	},
-  	"description": "Message Buses have been used for a long time in backend applications to seamlessly have them working together. Browser frontend applications now can benefit as well of a Message Bus architecture in the browser with libraries such as postal.js. In this talk we will explore how we can connect this Frontend and Backend buses with Javascript applications to coin yet another new name: Full-Stack-Bus."
-  }, {}]
+      "title": "Una simple app con Meteor 1.0!",
+      "level": "Beginner",
+      "language": "es",
+      "speaker": {
+        "name": "Sergi Cortés",
+        "twitter": "sergi_c",
+        "portait": ""
+      },
+      "description": "Una introducción al framework Meteor con la creación de una simple app"
+}]
+}, {
+    "date": "2014-12-21T23:00:00.000Z",
+    "talks": [{
+      "title": "Fullstack Message Bus with Javascript, RabbitMQ and postal.js ",
+      "level": "Beginner",
+      "language": "es",
+      "speaker": {
+        "name": "Javier Arias",
+        "twitter": "@javier_arilos",
+        "portait": "https://pbs.twimg.com/profile_images/461760331786637312/3ElOhEpW.jpeg"
+      },
+      "description": "Message Buses have been used for a long time in backend applications to seamlessly have them working together. Browser frontend applications now can benefit as well of a Message Bus architecture in the browser with libraries such as postal.js. In this talk we will explore how we can connect this Frontend and Backend buses with Javascript applications to coin yet another new name: Full-Stack-Bus.",
+      "slides": "http://www.slideshare.net/javierarilos/full-stack-bus-with-javascript-rabbitmq-and-postaljs"
+}, {}]
 }]
