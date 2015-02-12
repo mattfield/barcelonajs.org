@@ -25,16 +25,6 @@
   {
     "date": "2015-02-18T23:00:00.000Z",
     "talks": [{
-      "title": "Ionic 101",
-      "level": "Beginner",
-      "language": "es",
-      "speaker": {
-        "twitter": "vampaynani",
-        "name": "Wenceslao Negrete",
-        "portrait": "https://avatars3.githubusercontent.com/u/350815?v=3&s=400"
-      },
-      "description": "An introduction to this friendly angular framework to build great hybrid apps with web technologies you already know and love."
-    }, {
       "title": "Arquillian loves JavaScript too.",
       "level": "advanced",
       "language": "es",
