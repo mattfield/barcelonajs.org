@@ -34,6 +34,16 @@
         "portrait": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"
       },
       "description": "Nowadays a lot of applications are being developed not using a single language but more than one. One of the most used paradigm is implementing the front-end using Html + JavaScript (for example with AngularJs) and implementing the back-end with Java. There is a lot of test frameworks for Javascipt code and the same for Java, but if you want to test system wide in an automatic way it seems that you need some kind of glue to meet both worlds. Come to this session to learn how Arquillian can help you on writing tests for these applications."
+    },{
+      "title": "jQuery plugin for better HTML file inputs",
+      "level": "beginner",
+      "language": "en",
+      "speaker": {
+        "twitter": "mparramon",
+        "name": "Miguel Parramon",
+        "portrait": "https://avatars0.githubusercontent.com/u/636075?v=3&s=400"
+      },
+      "description": "Have you ever wanted to style an HTML file input in a easy way? I did, so I took [this guide](quirksmode.org/dom/inputfile.html) And turned it into a [jQuery plugin](plugins.jquery.com/enhancedfileinput/). [Here are some slides](http://www.developingandstuff.com/2013/01/jquery-plugin-for-better-html-file.html) I made for colognejs.de about developing it with Jasmine specs."
     }]
 },
   {
