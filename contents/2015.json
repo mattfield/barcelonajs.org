@@ -48,7 +48,26 @@
 },
   {
     "date": "2015-03-17T23:00:00.000Z",
-    "talks": [{}, {}]
+    "talks": [{
+      "title": "Developing mobile web apps for the real world with Ionic Framework",
+      "level": "advanced",
+      "language": "es",
+      "speaker": {
+        "twitter": "dcomasf",
+        "name": "Daniel Comas Fernández",
+        "portrait": "https://avatars2.githubusercontent.com/u/4038192?v=3&s=400"
+      },
+      "description": "It is well-known that develop in Android and iOS is a hardest task. For many companies the cost of develop and maintain two parallel environments is very expensive, and of course for a logic reason it isn't a good approach. At present, Many solutions exist to solve this, PhoneGap, Xamarin, the recent but only introduced ReactJS Native and of course Ionic. In this speech I will show how it works with some demos and the pros and cons about to use Ionic to develop web mobile apps for the real world."
+    },{
+      "title": "Introduction to React.js",
+      "level": "beginner",
+      "language": "en",
+      "speaker": {
+        "twitter": "ustunozgur",
+        "name": "Ustun Ozgur"
+      },
+      "description": "Building UI's is hard, but JavaScript is not to blame. Facebook's open source UI library React.js introduces a sane solution to building UI's, based on uni-directional flow and components with clear interfaces. Although object oriented in appeareance, React builds itself on a functional programming basis, making programs written by this library easy to develop and reason about. In this talk, we will go over the founding principles of this exciting library which has been steadily gaining popularity since it was first introduced in May 2013. We will also briefly talk about accompanying technologies such as Flux, immutablejs and react-router."
+    }]
 },
   {
     "date": "2015-04-21T23:00:00.000Z",
