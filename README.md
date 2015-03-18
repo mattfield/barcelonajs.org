@@ -1,15 +1,21 @@
 [![Stories in Ready](https://badge.waffle.io/barcelona-js/barcelonajs.org.png?label=ready&title=Ready)](https://waffle.io/barcelona-js/barcelonajs.org)
-BarcelonaJS.org website
-====================
+BarcelonaJS
+===========
 
 * Website: http://barcelonajs.org
 * Twitter: http://twitter.com/bcnjs
-* Google+: https://plus.google.com/u/0/communities/115705669406517039298
+* Vimeo: https://vimeo.com/barcelonajs
+
+## Format
+
+- Talks are 30 minutes including Q&A
+- You can speak in Spanish or English (international audience)
+- We'll record the talks and publish them on our [Vimeo channel](https://vimeo.com/barcelonajs)
 
 ## How to submit a talk proposal
 
-* Create a pull request in the [master branch](https://github.com/barcelona-js/barcelonajs.org/tree/master) with yourself added to the next meetup announcement.
-* Wait for discussion around your proposal, and optionally adjust your proposal based on the discussion.
-* One of the repo committers will merge and close your PR
+1) [Create a new talk](https://github.com/barcelona-js/barcelonajs.org/issues/new?title=Your%20Awesome%20Talk&body=---%0Alevel:%20beginner%20%7C%20advanced%20%7C%20expert%0Alanguage:%20en%20%7C%20es%0Atwitter:%20YourTwitterHandle%0Atags:%0A%20%20-%20hello%0A%20%20-%20node%0A---%0A%0AYour%20awesome%20talk%20description)
+2) fill out the title, your Twitter handle, the level and language of the talk and the description
+3) That's it. :)
 
     **If you need any help with this process** because you are new to GitHub or git, give us a poke on Twitter. We are happy to help newcomers in any way we can!
