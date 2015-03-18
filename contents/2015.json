@@ -52,6 +52,8 @@
       "title": "Developing mobile web apps for the real world with Ionic Framework",
       "level": "advanced",
       "language": "es",
+      "git": "",
+      "slides": "http://www.slideshare.net/danicomas/ionic-developing-mobile-apps-for-the-real-world-daniel-comas",
       "speaker": {
         "twitter": "dcomasf",
         "name": "Daniel Comas Fernández",
