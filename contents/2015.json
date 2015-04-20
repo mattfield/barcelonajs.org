@@ -74,14 +74,24 @@
   {
     "date": "2015-04-21T23:00:00.000Z",
     "talks": [{
-      "title": "Arquillian loves JavaScript too.",
+      "title": "Browserify",
       "level": "advanced",
-      "language": "es",
+      "language": "en",
       "speaker": {
-        "twitter": "alexsotob",
-        "name": "Alex Soto",
-        "portrait": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"
+        "twitter": "_sgimeno",
+        "name": "Sergio Gimeno",
+        "portrait": "https://pbs.twimg.com/profile_images/1362468987/paris.jpg"
       },
-      "description": "Nowadays a lot of applications are being developed not using a single language but more than one. One of the most used paradigm is implementing the front-end using Html + JavaScript (for example with AngularJs) and implementing the back-end with Java. There is a lot of test frameworks for Javascipt code and the same for Java, but if you want to test system wide in an automatic way it seems that you need some kind of glue to meet both worlds. Come to this session to learn how Arquillian can help you on writing tests for these applications."
-    }, {}]
+      "description": ""
+    }, {
+      "title": "Node packages with browserify",
+      "level": "advanced",
+      "language": "en",
+      "speaker": {
+        "twitter": "eth0lo",
+        "name": "Jean Carlos Meninno",
+        "portrait": ""
+      },
+      "description": ""
+    }]
 }]
