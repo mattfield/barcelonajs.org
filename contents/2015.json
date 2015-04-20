@@ -74,15 +74,15 @@
   {
     "date": "2015-04-21T23:00:00.000Z",
     "talks": [{
-      "title": "Browserify",
-      "level": "advanced",
+      "title": "Introduction to browserify",
+      "level": "beginner",
       "language": "en",
       "speaker": {
         "twitter": "_sgimeno",
         "name": "Sergio Gimeno",
         "portrait": "https://pbs.twimg.com/profile_images/1362468987/paris.jpg"
       },
-      "description": ""
+      "description": "Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node. This is a brief introduction on how and why to use browserify for your front-end projects."
     }, {
       "title": "Node packages with browserify",
       "level": "advanced",
