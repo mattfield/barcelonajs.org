@@ -93,5 +93,15 @@
         "portrait": ""
       },
       "description": ""
+    }, {
+      "title": "Flash Talks and Discussions",
+      "level": "advanced",
+      "language": "en",
+      "speaker": {
+        "twitter": "",
+        "name": "",
+        "portrait": ""
+      },
+      "description": "If you have a flash talk or interesting topic, bring it!"
     }]
 }]
