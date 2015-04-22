@@ -61,6 +61,17 @@
       ]
     },
     {
+      "label": "AngularBeers",
+      "members": [
+        {
+          "name": "David Pich",
+          "portrait": "assets/team/davdpich.jpg",
+          "email": "info@angularbeers.com",
+          "twitter": "davidpichcanes"
+        }
+      ]
+    },
+    {
       "label": "Node.js Barcelona",
       "members": [
         {
