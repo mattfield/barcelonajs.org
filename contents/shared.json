@@ -23,12 +23,13 @@
           "twitter": "PatrickHeneise",
           "portrait": "assets/team/patrick.jpg",
           "email": "patrick@barcelonajs.org",
-          "bio": "Independent consultant and developer. Founder of BarcelonaJS.org"
+          "bio": "Co-Founder of BarcelonaJS.org. Works at blended.io."
         },
         {
           "name": "Jean-Carlos Meninno",
           "twitter": "eth0lo",
-          "email": "jean@barcelonajs.org"
+          "email": "jean@barcelonajs.org",
+          "bio": "Co-Founder of BarcelonaJS.org."
         },
         {
           "name": "Isabel Cabezas",
@@ -78,12 +79,13 @@
     },
     {
       "label": "MobileJS",
-      "members": {
-        "name": "Alina Mierlus",
-        "portrait": "assets/team/alina.jpg",
-        "email": "mobile@barcelonajs.org",
-        "twitter": "alina_mierlus"
-      }
+      "members": [
+        {
+          "name": "Patrick Heneise",
+          "portrait": "assets/team/patrick.jpg",
+          "twitter": "PatrickHeneise"
+        }
+      ]
     }
   ]
 }
