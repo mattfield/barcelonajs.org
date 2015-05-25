@@ -136,6 +136,8 @@
       "name": "Leonid Kyrpychenko",
       "portrait": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"
     },
+    "git": "https://github.com/leonkyr",
+    "slides": "http://www.slideshare.net/PaladinPayments/20150519-qumram-barcelonajs",
     "description": "Qumram.com provides capabilities to track user behaviour and replay user interaction as a movie, so I can shortly describe architecture, technologies and a few lesson learnt things."
   }]
   }
