@@ -38,54 +38,6 @@
           "email": "isabel@barcelonajs.org"
         }
       ]
-    },
-    {
-      "label": "AngularBCN",
-      "members": [
-        {
-          "name": "Jose Roya",
-          "portrait": "assets/team/jose.jpg",
-          "email": "angular@barcelonajs.org",
-          "twitter": "_joseraya"
-        },
-        {
-          "name": "Sergi Gimeno",
-          "portrait": "assets/team/sergi.jpg",
-          "email": "angular@barcelonajs.org",
-          "twitter": "_sgimeno"
-        }
-      ]
-    },
-    {
-      "label": "AngularBeers",
-      "members": [
-        {
-          "name": "David Pich",
-          "portrait": "assets/team/davidpich.jpg",
-          "email": "info@angularbeers.com",
-          "twitter": "davidpichcanes"
-        }
-      ]
-    },
-    {
-      "label": "Node.js Barcelona",
-      "members": [
-        {
-          "name": "Patrick Heneise",
-          "portrait": "assets/team/patrick.jpg",
-          "twitter": "PatrickHeneise"
-        }
-      ]
-    },
-    {
-      "label": "MobileJS",
-      "members": [
-        {
-          "name": "Patrick Heneise",
-          "portrait": "assets/team/patrick.jpg",
-          "twitter": "PatrickHeneise"
-        }
-      ]
     }
   ]
 }
