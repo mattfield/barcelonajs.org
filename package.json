@@ -1,0 +1,32 @@
+{
+  "name": "BarcelonaJS",
+  "description": "Barcelona.JS is a usergroup focused on JavaScript and related topics. We meet regularly at the Mobile World Centre, C/ de Fontanella, 2 in Barcelona.",
+  "license": "MIT",
+  "version": "0.0.1",
+  "homepage": "https://github.com/barcelona-js/",
+  "author": {
+    "name": "Patrick Heneise",
+    "url": "http://github.com/barcelonajs/"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/barcelonajs/barcelonajs.org.git"
+  },
+  "bugs": {
+    "url": "https://github.com/barcelonajs/barcelonajs.org/issues"
+  },
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "build": "punch g",
+    "serve": "punch s"
+  },
+  "private": false,
+  "devDependencies": {
+    "punch": "^0.5.46",
+    "punch-engine-handlebars": "0.0.2",
+    "punch-sitemap-generator": "0.0.5"
+  }
+}

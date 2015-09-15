@@ -226,7 +226,7 @@
             }
         ]
     }, {
-      "date": "2015-10-09T18:45:00.000Z",
+      "date": "2015-10-01T18:45:00.000Z",
       "talks": [{
           "title": "Functional Programming & Architecture in ES6",
           "level": "advanced",
