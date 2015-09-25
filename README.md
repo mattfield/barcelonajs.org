@@ -1,4 +1,3 @@
-[![Stories in Ready](https://badge.waffle.io/barcelona-js/barcelonajs.org.png?label=ready&title=Ready)](https://waffle.io/barcelona-js/barcelonajs.org)
 BarcelonaJS
 ===========
 
@@ -14,7 +13,7 @@ BarcelonaJS
 
 ## How to submit a talk proposal
 
-1. [Create a new talk](https://github.com/barcelonajs/barcelonajs.org/issues/new?title=Your%20Awesome%20Talk&body=---%0Alevel:%20beginner%20%7C%20advanced%20%7C%20expert%0Alanguage:%20en%20%7C%20es%0Atwitter:%20YourTwitterHandle%0Atags:%0A%20%20-%20hello%0A%20%20-%20node%0A---%0A%0AYour%20awesome%20talk%20description)
+1. [Create a new talk](https://github.com/barcelonajs/barcelonajs/issues/new?title=Your%20Awesome%20Talk&body=---%0Alevel:%20beginner%20%7C%20advanced%20%7C%20expert%0Alanguage:%20en%20%7C%20es%0Atwitter:%20YourTwitterHandle%0Atags:%0A%20%20-%20hello%0A%20%20-%20node%0A---%0A%0AYour%20awesome%20talk%20description)
 2. fill out the title, your Twitter handle, the level and language of the talk and the description
 3. That's it. :)
 
