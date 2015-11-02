@@ -260,16 +260,17 @@
         "date": "2015-11-11T18:45:00.000Z",
         "talks": [
             {
-                "title": "Functional Programming & Architecture in ES6",
-                "level": "advanced",
+                "title": "NodeJS - A platform for PORN!",
+                "level": "beginner | advanced | expert",
                 "language": "en",
                 "speaker": {
-                    "twitter": "dialelo",
-                    "name": "Alejandro Gómez",
-                    "portrait": "https://avatars0.githubusercontent.com/u/409039?v=3&s=400"
+                    "twitter": "davewilliamson",
+                    "name": "Dave Williamson",
+                    "portrait": "https://avatars0.githubusercontent.com/u/1398082?v=3&s=400"
                 },
-                "description": "In this talk we'll explore the innovation that has happened in the ClojureScript community for building applications in the browser and how we can leverage such ideas and the functional programming paradigm in JavaScript. We'll see how virtual DOM implementations like React open up possibilities for a functional architecture in our applications, which can be radically simpler than traditional approaches. The main benefits are a sound separation of concerns, better reasoning about the systems we design and the ability to easily test our applications."
-            }, {
+                "description": "How we handle over 55m page views per month. The talk details how we developed a platform designed to cope with high traffic, while keeping it as lightweight as possible (read: low cost!). We needed it to handle the lows of the first few weeks, the highs of the 1st 12 months, and to be a solid platform to build upon for as much traffic as we wanted to throw at it. We did it, and this is the story........"
+            },
+            {
                 "title": "TypeScript will finally bring peace to your troubled soul",
                 "level": "beginner",
                 "language": "en",
@@ -279,6 +280,22 @@
                     "portrait": "https://avatars3.githubusercontent.com/u/1526883?v=3&s=400"
                 },
                 "description": "You've heard of TypeScript, but you're not sure if it's a good idea, and you've never really seen it in action. TypeScript is powerful though, rapidly gaining momentum, and has a lot more to offer than just JS + classes. Let's take a proper look. In this talk we'll dig a bit deeper and play around with some of the more interesting features TypeScript gives you. We'll walk through the extras that TypeScript provides and how they'll solve your every woe, learn a bit about where the types come in and why'd you care, and see how exactly you might put it into action on your next Node project."
+            }
+        ]
+    },
+    {
+        "date": "2015-12-09T18:45:00.000Z",
+        "talks": [
+            {
+                "title": "Functional Programming & Architecture in ES6",
+                "level": "advanced",
+                "language": "en",
+                "speaker": {
+                    "twitter": "dialelo",
+                    "name": "Alejandro Gómez",
+                    "portrait": "https://avatars0.githubusercontent.com/u/409039?v=3&s=400"
+                },
+                "description": "In this talk we'll explore the innovation that has happened in the ClojureScript community for building applications in the browser and how we can leverage such ideas and the functional programming paradigm in JavaScript. We'll see how virtual DOM implementations like React open up possibilities for a functional architecture in our applications, which can be radically simpler than traditional approaches. The main benefits are a sound separation of concerns, better reasoning about the systems we design and the ability to easily test our applications."
             }
         ]
     }
