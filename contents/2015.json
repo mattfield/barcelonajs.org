@@ -1,302 +1,302 @@
 [
-    {
-        "date": "2015-01-21T23:00:00.000Z",
-        "talks": [
-            {
-                "title": "Serious text editing in the browser",
-                "level": "Advanced",
-                "language": "es",
-                "speaker": {
-                    "twitter": "marijnjh",
-                    "name": "Marijn Haverbeke",
-                    "portrait": ""
-                },
-                "description": "When a textarea doesn't cut it anymore, there are alternatives: full-featured text and code editors written in browser JavaScript. This talk is about CodeMirror, one such editor. It'll explore the intricacies of faking an editable control, the challenges of making it scale to hundreds of thousands of lines, and the integration of modern code editor features."
-            },
-            {
-                "title": "Development environments using fig",
-                "level": "Beginner",
-                "language": "en",
-                "speaker": {
-                    "twitter": "dias_jorge",
-                    "name": "Jorge Dias",
-                    "portrait": ""
-                },
-                "description": "Jorge Dias, Software Engineer turned Devops @ Xing, responsible for development and testing environments is going to talk about the research being done at Xing regarding the use of docker and will do a brief overview of working with fig and some custom tools to improve the workflow."
-            }
-        ]
-    },
-    {
-        "date": "2015-02-18T23:00:00.000Z",
-        "talks": [
-            {
-                "title": "jQuery plugin for better HTML file inputs",
-                "level": "beginner",
-                "language": "en",
-                "speaker": {
-                    "twitter": "mparramon",
-                    "name": "Miguel Parramon",
-                    "portrait": "https://avatars0.githubusercontent.com/u/636075?v=3&s=400"
-                },
-                "description": "Have you ever wanted to style an HTML file input in a easy way? I did, so I took [this guide](quirksmode.org/dom/inputfile.html) And turned it into a [jQuery plugin](plugins.jquery.com/enhancedfileinput/). [Here are some slides](http://www.developingandstuff.com/2013/01/jquery-plugin-for-better-html-file.html) I made for colognejs.de about developing it with Jasmine specs."
-            }
-        ]
-    },
-    {
-        "date": "2015-03-17T23:00:00.000Z",
-        "talks": [
-            {
-                "title": "Developing mobile web apps for the real world with Ionic Framework",
-                "level": "advanced",
-                "language": "es",
-                "git": "",
-                "slides": "http://www.slideshare.net/danicomas/ionic-developing-mobile-apps-for-the-real-world-daniel-comas",
-                "speaker": {
-                    "twitter": "dcomasf",
-                    "name": "Daniel Comas Fernández",
-                    "portrait": "https://avatars2.githubusercontent.com/u/4038192?v=3&s=400"
-                },
-                "description": "It is well-known that develop in Android and iOS is a hardest task. For many companies the cost of develop and maintain two parallel environments is very expensive, and of course for a logic reason it isn't a good approach. At present, Many solutions exist to solve this, PhoneGap, Xamarin, the recent but only introduced ReactJS Native and of course Ionic. In this speech I will show how it works with some demos and the pros and cons about to use Ionic to develop web mobile apps for the real world."
-            },
-            {
-                "title": "Introduction to React.js",
-                "level": "beginner",
-                "language": "en",
-                "speaker": {
-                    "twitter": "ustunozgur",
-                    "name": "Ustun Ozgur"
-                },
-                "description": "Building UI's is hard, but JavaScript is not to blame. Facebook's open source UI library React.js introduces a sane solution to building UI's, based on uni-directional flow and components with clear interfaces. Although object oriented in appeareance, React builds itself on a functional programming basis, making programs written by this library easy to develop and reason about. In this talk, we will go over the founding principles of this exciting library which has been steadily gaining popularity since it was first introduced in May 2013. We will also briefly talk about accompanying technologies such as Flux, immutablejs and react-router."
-            },
-            {
-                "title": "St. Patrick's Day!",
-                "level": "experts",
-                "language": "en",
-                "speaker": {
-                    "twitter": "#StPatricksDay",
-                    "name": "Saint Patrick",
-                    "portrait": "http://www.ihypress.ca/stpats/sp1.gif"
-                },
-                "description": "After the talks we'll take cabs straight to Michael Collins Pub (Plaça de la Sagrada Família 4) to celebrate St. Patrick's Day."
-            }
-        ]
-    },
-    {
-        "date": "2015-04-21T23:00:00.000Z",
-        "talks": [
-            {
-                "title": "Introduction to browserify",
-                "level": "beginner",
-                "language": "en",
-                "speaker": {
-                    "twitter": "_sgimeno",
-                    "name": "Sergio Gimeno",
-                    "portrait": "https://pbs.twimg.com/profile_images/1362468987/paris.jpg"
-                },
-                "description": "Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node. This is a brief introduction on how and why to use browserify for your front-end projects."
-            },
-            {
-                "title": "Tips for using browserify in a ever changing enviroment",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "eth0lo",
-                    "name": "Jean Carlos Meninno",
-                    "portrait": "https://avatars2.githubusercontent.com/u/657235?v=3&s=460"
-                },
-                "description": "Tips for using browserify in a ever changing enviroment"
-            },
-            {
-                "title": "Flash Talks and Discussions",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "",
-                    "name": "",
-                    "portrait": ""
-                },
-                "description": "If you have a flash talk or interesting topic, bring it!"
-            }
-        ]
-    },
-    {
-        "date": "2015-05-19T19:00:00.000Z",
-        "talks": [
-            {
-                "title": "jqComponents - Structure and UI Components for jQuery",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "jjenkov",
-                    "name": "Jakob Jenkov",
-                    "portrait": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"
-                },
-                "description": "jqComponents (http://jqcomponents.com) is a small, open source toolkit / framework that brings structure and UI components to your jQuery powered web apps.\njQuery is incredibly flexible, powerful and easy to use. But - jQuery doesn't standardize how to structure bigger apps. Therefore:\n1) The app code tends to become very DOM-centric (partly because of how jQuery plugins work).\n2) The app code tends to become unstructured - looking like one, big main method\njqComponents is designed to solve both of these problems, by providing a standardized way to divide your code into components and modules. Inside both of these, you can use the power of jQuery freely. jqComponents comes with a set of standard UI components, so you don't have to build everything from scratch. You can create a custom build of jqComponents from the project website, so you don't need to include more than you actually use. jqComponents started as a hobby project of mine, but has now gone through 11 releases (in 2014), and will go through some this year too. I will be using it in several different projects this year. This talk is not intended to be a complete \"how to use jqComponents\" talk. Rather, it will explain the reasoning behind its internal design. I am sharing this with the JS community to get your feedback. Is this a useful model? Is it flawed? How does it compare to e.g. Web Components etc. Let's get a discussion going."
-            },
-            {
-                "title": "Arquillian loves JavaScript too.",
-                "level": "advanced",
-                "language": "es",
-                "speaker": {
-                    "twitter": "alexsotob",
-                    "name": "Alex Soto",
-                    "portrait": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"
-                },
-                "description": "Nowadays a lot of applications are being developed not using a single language but more than one.\nOne of the most used paradigm is implementing the front-end using Html + JavaScript (for example with AngularJs) and implementing the back-end with Java.\nThere is a lot of test frameworks for Javascipt code and the same for Java, but if you want to test system wide in an automatic way it seems that you need some kind of glue to meet both worlds.\nCome to this session to learn how Arquillian can help you on writing tests for these applications."
-            },
-            {
-                "title": "Qumram Analytics",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "distributedLeo",
-                    "name": "Leonid Kyrpychenko",
-                    "portrait": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"
-                },
-                "git": "https://github.com/leonkyr",
-                "slides": "http://www.slideshare.net/PaladinPayments/20150519-qumram-barcelonajs",
-                "description": "Qumram.com provides capabilities to track user behaviour and replay user interaction as a movie, so I can shortly describe architecture, technologies and a few lesson learnt things."
-            }
-        ]
-    },
-    {
-        "date": "2015-05-19T19:00:00.000Z",
-        "talks": [
-            {
-                "title": "jqComponents - Structure and UI Components for jQuery",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "jjenkov",
-                    "name": "Jakob Jenkov",
-                    "portrait": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"
-                },
-                "description": "jqComponents (http://jqcomponents.com) is a small, open source toolkit / framework that brings structure and UI components to your jQuery powered web apps.\njQuery is incredibly flexible, powerful and easy to use. But - jQuery doesn't standardize how to structure bigger apps. Therefore:\n1) The app code tends to become very DOM-centric (partly because of how jQuery plugins work).\n2) The app code tends to become unstructured - looking like one, big main method\njqComponents is designed to solve both of these problems, by providing a standardized way to divide your code into components and modules. Inside both of these, you can use the power of jQuery freely. jqComponents comes with a set of standard UI components, so you don't have to build everything from scratch. You can create a custom build of jqComponents from the project website, so you don't need to include more than you actually use. jqComponents started as a hobby project of mine, but has now gone through 11 releases (in 2014), and will go through some this year too. I will be using it in several different projects this year. This talk is not intended to be a complete \"how to use jqComponents\" talk. Rather, it will explain the reasoning behind its internal design. I am sharing this with the JS community to get your feedback. Is this a useful model? Is it flawed? How does it compare to e.g. Web Components etc. Let's get a discussion going."
-            },
-            {
-                "title": "Arquillian loves JavaScript too.",
-                "level": "advanced",
-                "language": "es",
-                "speaker": {
-                    "twitter": "alexsotob",
-                    "name": "Alex Soto",
-                    "portrait": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"
-                },
-                "description": "Nowadays a lot of applications are being developed not using a single language but more than one.\nOne of the most used paradigm is implementing the front-end using Html + JavaScript (for example with AngularJs) and implementing the back-end with Java.\nThere is a lot of test frameworks for Javascipt code and the same for Java, but if you want to test system wide in an automatic way it seems that you need some kind of glue to meet both worlds.\nCome to this session to learn how Arquillian can help you on writing tests for these applications."
-            },
-            {
-                "title": "Qumram Analytics",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "distributedLeo",
-                    "name": "Leonid Kyrpychenko",
-                    "portrait": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"
-                },
-                "git": "https://github.com/leonkyr",
-                "slides": "http://www.slideshare.net/PaladinPayments/20150519-qumram-barcelonajs",
-                "description": "Qumram.com provides capabilities to track user behaviour and replay user interaction as a movie, so I can shortly describe architecture, technologies and a few lesson learnt things."
-            }
-        ]
-    },
-    {
-        "date": "2015-09-09T18:45:00.000Z",
-        "talks": [
-            {
-                "title": "Migrating from Backbone to React and Immutable data without brain overload",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "somebody32",
-                    "name": "Ilya Zayats",
-                    "portrait": "https://avatars3.githubusercontent.com/u/25742?v=3&s=400"
-                },
-                "description": "In this talk I will tell you a story about our recently started migration from Backbone to React + immutable data stack. Our state was: huge amount of marionette Views and Backbone Collections. Our targets were: have all our UI data available globally and be immutable rendering layer swithched to react migration should not be done in ’stop the world and rewrite everything’ format boost developer experience: add hot-reloading and time traveling to ease the debugging process prevent brains overload by new concepts and ideas. So, I want to tell you how we met all these goals and maybe even more."
-            },
-            {
-                "title": "Data structures of the revolution",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "substack",
-                    "name": "James Halliday",
-                    "portrait": "https://avatars1.githubusercontent.com/u/12631?v=3&s=400"
-                },
-                "description": "blob storage, logs, and DHTs! How to use torrents, logs, blob storage, and to build services that nobody can own. In node and the browser!",
-                "git": "https://github.com/substack/data-structures-of-the-revolution"
-            }
-        ]
-    },
-    {
-        "date": "2015-10-01T18:45:00.000Z",
-        "talks": [
-            {
-                "title": "An introduction to Lovefield, cross-browser RDB",
-                "level": "beginner",
-                "language": "en",
-                "speaker": {
-                    "twitter": "ifraixedes",
-                    "name": "Ivan Fraixedes",
-                    "portrait": "https://avatars2.githubusercontent.com/u/1731633?v=3&s=400"
-                },
-                "description": "In this talk I will give an introduction to [Lovefield](https://google.github.io/lovefield/), a cross-browser SQL-Like, relational query engine for web, written purely in Javascript.\nI will make an introduction why has been created, what problems it does help to solve, its quirks and the reasons of them.\nI will also briefly introduce [sql.js](https://github.com/kripken/sql.js/) to end up with a live simple demo comparing both.",
-                "slides": "http://blog.fraixed.es/post/speaking-bcnjs-intro-to-lovefield/",
-                "git": "https://gist.github.com/ifraixedes/485329b7d46531e50e23"
-            },
-            {
-                "title": "NodeJS threading mode",
-                "level": "advanced",
-                "language": "en",
-                "speaker": {
-                    "twitter": "jgomezb79",
-                    "name": "Jordi Gomez",
-                    "portrait": "https://avatars2.githubusercontent.com/u/1548185?v=3&s=400"
-                },
-                "description": "This talk will explore the architecture of the threading model of NodeJS. In this model, the programmer works in a single threaded environment but leverages the asynchronous operations to system threads managed by the framework. This makes NodeJS very suitable for small services non CPU-bounded that communicate with external services or perform asynchronous operations, like querying a caching backend (memcached) or adding elements to a queue system."
-            }
-        ]
-    },
-    {
-        "date": "2015-11-11T18:45:00.000Z",
-        "talks": [
-            {
-                "title": "NodeJS - A platform for PORN!",
-                "level": "beginner | advanced | expert",
-                "language": "en",
-                "speaker": {
-                    "twitter": "",
-                    "name": "Dave W.",
-                    "portrait": "https://avatars0.githubusercontent.com/u/1398082?v=3&s=400"
-                },
-                "description": "How we handle over 55m page views per month. The talk details how we developed a platform designed to cope with high traffic, while keeping it as lightweight as possible (read: low cost!). We needed it to handle the lows of the first few weeks, the highs of the 1st 12 months, and to be a solid platform to build upon for as much traffic as we wanted to throw at it. We did it, and this is the story........"
-            },
-            {
-                "title": "TypeScript will finally bring peace to your troubled soul",
-                "level": "beginner",
-                "language": "en",
-                "speaker": {
-                    "twitter": "pimterry",
-                    "name": "Tim Perry",
-                    "portrait": "https://avatars3.githubusercontent.com/u/1526883?v=3&s=400"
-                },
-                "description": "You've heard of TypeScript, but you're not sure if it's a good idea, and you've never really seen it in action. TypeScript is powerful though, rapidly gaining momentum, and has a lot more to offer than just JS + classes. Let's take a proper look. In this talk we'll dig a bit deeper and play around with some of the more interesting features TypeScript gives you. We'll walk through the extras that TypeScript provides and how they'll solve your every woe, learn a bit about where the types come in and why'd you care, and see how exactly you might put it into action on your next Node project."
-            }
-        ]
-    },
-    {
-      "date": "2015-11-21T09:30:00.000Z",
-      "talks": [{
-        "title": "NodeConf Barcelona",
+  {
+    "date": "2015-01-21T23:00:00.000Z",
+    "talks": [
+      {
+        "title": "Serious text editing in the browser",
+        "level": "Advanced",
+        "language": "es",
         "speaker": {
-            "twitter": "NodeConfBcn",
-            "name": "NodeConf",
-            "portrait": "http://barcelona.nodeconf.com/assets/img/nodeconf-thumb.png"
+          "twitter": "marijnjh",
+          "name": "Marijn Haverbeke",
+          "portrait": ""
         },
-        "description": "12 speakers, single track, non-profit conference for node.js enthusiasts, fans and newcomers."
+        "description": "When a textarea doesn't cut it anymore, there are alternatives: full-featured text and code editors written in browser JavaScript. This talk is about CodeMirror, one such editor. It'll explore the intricacies of faking an editable control, the challenges of making it scale to hundreds of thousands of lines, and the integration of modern code editor features."
+            },
+      {
+        "title": "Development environments using fig",
+        "level": "Beginner",
+        "language": "en",
+        "speaker": {
+          "twitter": "dias_jorge",
+          "name": "Jorge Dias",
+          "portrait": ""
+        },
+        "description": "Jorge Dias, Software Engineer turned Devops @ Xing, responsible for development and testing environments is going to talk about the research being done at Xing regarding the use of docker and will do a brief overview of working with fig and some custom tools to improve the workflow."
+            }
+        ]
+    },
+  {
+    "date": "2015-02-18T23:00:00.000Z",
+    "talks": [
+      {
+        "title": "jQuery plugin for better HTML file inputs",
+        "level": "beginner",
+        "language": "en",
+        "speaker": {
+          "twitter": "mparramon",
+          "name": "Miguel Parramon",
+          "portrait": "https://avatars0.githubusercontent.com/u/636075?v=3&s=400"
+        },
+        "description": "Have you ever wanted to style an HTML file input in a easy way? I did, so I took [this guide](quirksmode.org/dom/inputfile.html) And turned it into a [jQuery plugin](plugins.jquery.com/enhancedfileinput/). [Here are some slides](http://www.developingandstuff.com/2013/01/jquery-plugin-for-better-html-file.html) I made for colognejs.de about developing it with Jasmine specs."
+            }
+        ]
+    },
+  {
+    "date": "2015-03-17T23:00:00.000Z",
+    "talks": [
+      {
+        "title": "Developing mobile web apps for the real world with Ionic Framework",
+        "level": "advanced",
+        "language": "es",
+        "git": "",
+        "slides": "http://www.slideshare.net/danicomas/ionic-developing-mobile-apps-for-the-real-world-daniel-comas",
+        "speaker": {
+          "twitter": "dcomasf",
+          "name": "Daniel Comas Fernández",
+          "portrait": "https://avatars2.githubusercontent.com/u/4038192?v=3&s=400"
+        },
+        "description": "It is well-known that develop in Android and iOS is a hardest task. For many companies the cost of develop and maintain two parallel environments is very expensive, and of course for a logic reason it isn't a good approach. At present, Many solutions exist to solve this, PhoneGap, Xamarin, the recent but only introduced ReactJS Native and of course Ionic. In this speech I will show how it works with some demos and the pros and cons about to use Ionic to develop web mobile apps for the real world."
+            },
+      {
+        "title": "Introduction to React.js",
+        "level": "beginner",
+        "language": "en",
+        "speaker": {
+          "twitter": "ustunozgur",
+          "name": "Ustun Ozgur"
+        },
+        "description": "Building UI's is hard, but JavaScript is not to blame. Facebook's open source UI library React.js introduces a sane solution to building UI's, based on uni-directional flow and components with clear interfaces. Although object oriented in appeareance, React builds itself on a functional programming basis, making programs written by this library easy to develop and reason about. In this talk, we will go over the founding principles of this exciting library which has been steadily gaining popularity since it was first introduced in May 2013. We will also briefly talk about accompanying technologies such as Flux, immutablejs and react-router."
+            },
+      {
+        "title": "St. Patrick's Day!",
+        "level": "experts",
+        "language": "en",
+        "speaker": {
+          "twitter": "#StPatricksDay",
+          "name": "Saint Patrick",
+          "portrait": "http://www.ihypress.ca/stpats/sp1.gif"
+        },
+        "description": "After the talks we'll take cabs straight to Michael Collins Pub (Plaça de la Sagrada Família 4) to celebrate St. Patrick's Day."
+            }
+        ]
+    },
+  {
+    "date": "2015-04-21T23:00:00.000Z",
+    "talks": [
+      {
+        "title": "Introduction to browserify",
+        "level": "beginner",
+        "language": "en",
+        "speaker": {
+          "twitter": "_sgimeno",
+          "name": "Sergio Gimeno",
+          "portrait": "https://pbs.twimg.com/profile_images/1362468987/paris.jpg"
+        },
+        "description": "Browsers don't have the require method defined, but Node.js does. With Browserify you can write code that uses require in the same way that you would use it in Node. This is a brief introduction on how and why to use browserify for your front-end projects."
+            },
+      {
+        "title": "Tips for using browserify in a ever changing enviroment",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "eth0lo",
+          "name": "Jean Carlos Meninno",
+          "portrait": "https://avatars2.githubusercontent.com/u/657235?v=3&s=460"
+        },
+        "description": "Tips for using browserify in a ever changing enviroment"
+            },
+      {
+        "title": "Flash Talks and Discussions",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "",
+          "name": "",
+          "portrait": ""
+        },
+        "description": "If you have a flash talk or interesting topic, bring it!"
+            }
+        ]
+    },
+  {
+    "date": "2015-05-19T19:00:00.000Z",
+    "talks": [
+      {
+        "title": "jqComponents - Structure and UI Components for jQuery",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "jjenkov",
+          "name": "Jakob Jenkov",
+          "portrait": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"
+        },
+        "description": "jqComponents (http://jqcomponents.com) is a small, open source toolkit / framework that brings structure and UI components to your jQuery powered web apps.\njQuery is incredibly flexible, powerful and easy to use. But - jQuery doesn't standardize how to structure bigger apps. Therefore:\n1) The app code tends to become very DOM-centric (partly because of how jQuery plugins work).\n2) The app code tends to become unstructured - looking like one, big main method\njqComponents is designed to solve both of these problems, by providing a standardized way to divide your code into components and modules. Inside both of these, you can use the power of jQuery freely. jqComponents comes with a set of standard UI components, so you don't have to build everything from scratch. You can create a custom build of jqComponents from the project website, so you don't need to include more than you actually use. jqComponents started as a hobby project of mine, but has now gone through 11 releases (in 2014), and will go through some this year too. I will be using it in several different projects this year. This talk is not intended to be a complete \"how to use jqComponents\" talk. Rather, it will explain the reasoning behind its internal design. I am sharing this with the JS community to get your feedback. Is this a useful model? Is it flawed? How does it compare to e.g. Web Components etc. Let's get a discussion going."
+            },
+      {
+        "title": "Arquillian loves JavaScript too.",
+        "level": "advanced",
+        "language": "es",
+        "speaker": {
+          "twitter": "alexsotob",
+          "name": "Alex Soto",
+          "portrait": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"
+        },
+        "description": "Nowadays a lot of applications are being developed not using a single language but more than one.\nOne of the most used paradigm is implementing the front-end using Html + JavaScript (for example with AngularJs) and implementing the back-end with Java.\nThere is a lot of test frameworks for Javascipt code and the same for Java, but if you want to test system wide in an automatic way it seems that you need some kind of glue to meet both worlds.\nCome to this session to learn how Arquillian can help you on writing tests for these applications."
+            },
+      {
+        "title": "Qumram Analytics",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "distributedLeo",
+          "name": "Leonid Kyrpychenko",
+          "portrait": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"
+        },
+        "git": "https://github.com/leonkyr",
+        "slides": "http://www.slideshare.net/PaladinPayments/20150519-qumram-barcelonajs",
+        "description": "Qumram.com provides capabilities to track user behaviour and replay user interaction as a movie, so I can shortly describe architecture, technologies and a few lesson learnt things."
+            }
+        ]
+    },
+  {
+    "date": "2015-05-19T19:00:00.000Z",
+    "talks": [
+      {
+        "title": "jqComponents - Structure and UI Components for jQuery",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "jjenkov",
+          "name": "Jakob Jenkov",
+          "portrait": "https://pbs.twimg.com/profile_images/273450574/20081123-20081123-3E1W7902-small-portrait.jpg"
+        },
+        "description": "jqComponents (http://jqcomponents.com) is a small, open source toolkit / framework that brings structure and UI components to your jQuery powered web apps.\njQuery is incredibly flexible, powerful and easy to use. But - jQuery doesn't standardize how to structure bigger apps. Therefore:\n1) The app code tends to become very DOM-centric (partly because of how jQuery plugins work).\n2) The app code tends to become unstructured - looking like one, big main method\njqComponents is designed to solve both of these problems, by providing a standardized way to divide your code into components and modules. Inside both of these, you can use the power of jQuery freely. jqComponents comes with a set of standard UI components, so you don't have to build everything from scratch. You can create a custom build of jqComponents from the project website, so you don't need to include more than you actually use. jqComponents started as a hobby project of mine, but has now gone through 11 releases (in 2014), and will go through some this year too. I will be using it in several different projects this year. This talk is not intended to be a complete \"how to use jqComponents\" talk. Rather, it will explain the reasoning behind its internal design. I am sharing this with the JS community to get your feedback. Is this a useful model? Is it flawed? How does it compare to e.g. Web Components etc. Let's get a discussion going."
+            },
+      {
+        "title": "Arquillian loves JavaScript too.",
+        "level": "advanced",
+        "language": "es",
+        "speaker": {
+          "twitter": "alexsotob",
+          "name": "Alex Soto",
+          "portrait": "https://avatars2.githubusercontent.com/u/1517153?v=3&s=400"
+        },
+        "description": "Nowadays a lot of applications are being developed not using a single language but more than one.\nOne of the most used paradigm is implementing the front-end using Html + JavaScript (for example with AngularJs) and implementing the back-end with Java.\nThere is a lot of test frameworks for Javascipt code and the same for Java, but if you want to test system wide in an automatic way it seems that you need some kind of glue to meet both worlds.\nCome to this session to learn how Arquillian can help you on writing tests for these applications."
+            },
+      {
+        "title": "Qumram Analytics",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "distributedLeo",
+          "name": "Leonid Kyrpychenko",
+          "portrait": "https://pbs.twimg.com/profile_images/537011905554960384/HgcnZ5RK.jpeg"
+        },
+        "git": "https://github.com/leonkyr",
+        "slides": "http://www.slideshare.net/PaladinPayments/20150519-qumram-barcelonajs",
+        "description": "Qumram.com provides capabilities to track user behaviour and replay user interaction as a movie, so I can shortly describe architecture, technologies and a few lesson learnt things."
+            }
+        ]
+    },
+  {
+    "date": "2015-09-09T18:45:00.000Z",
+    "talks": [
+      {
+        "title": "Migrating from Backbone to React and Immutable data without brain overload",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "somebody32",
+          "name": "Ilya Zayats",
+          "portrait": "https://avatars3.githubusercontent.com/u/25742?v=3&s=400"
+        },
+        "description": "In this talk I will tell you a story about our recently started migration from Backbone to React + immutable data stack. Our state was: huge amount of marionette Views and Backbone Collections. Our targets were: have all our UI data available globally and be immutable rendering layer swithched to react migration should not be done in ’stop the world and rewrite everything’ format boost developer experience: add hot-reloading and time traveling to ease the debugging process prevent brains overload by new concepts and ideas. So, I want to tell you how we met all these goals and maybe even more."
+            },
+      {
+        "title": "Data structures of the revolution",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "substack",
+          "name": "James Halliday",
+          "portrait": "https://avatars1.githubusercontent.com/u/12631?v=3&s=400"
+        },
+        "description": "blob storage, logs, and DHTs! How to use torrents, logs, blob storage, and to build services that nobody can own. In node and the browser!",
+        "git": "https://github.com/substack/data-structures-of-the-revolution"
+            }
+        ]
+    },
+  {
+    "date": "2015-10-01T18:45:00.000Z",
+    "talks": [
+      {
+        "title": "An introduction to Lovefield, cross-browser RDB",
+        "level": "beginner",
+        "language": "en",
+        "speaker": {
+          "twitter": "ifraixedes",
+          "name": "Ivan Fraixedes",
+          "portrait": "https://avatars2.githubusercontent.com/u/1731633?v=3&s=400"
+        },
+        "description": "In this talk I will give an introduction to [Lovefield](https://google.github.io/lovefield/), a cross-browser SQL-Like, relational query engine for web, written purely in Javascript.\nI will make an introduction why has been created, what problems it does help to solve, its quirks and the reasons of them.\nI will also briefly introduce [sql.js](https://github.com/kripken/sql.js/) to end up with a live simple demo comparing both.",
+        "slides": "http://blog.fraixed.es/post/speaking-bcnjs-intro-to-lovefield/",
+        "git": "https://gist.github.com/ifraixedes/485329b7d46531e50e23"
+            },
+      {
+        "title": "NodeJS threading mode",
+        "level": "advanced",
+        "language": "en",
+        "speaker": {
+          "twitter": "jgomezb79",
+          "name": "Jordi Gomez",
+          "portrait": "https://avatars2.githubusercontent.com/u/1548185?v=3&s=400"
+        },
+        "description": "This talk will explore the architecture of the threading model of NodeJS. In this model, the programmer works in a single threaded environment but leverages the asynchronous operations to system threads managed by the framework. This makes NodeJS very suitable for small services non CPU-bounded that communicate with external services or perform asynchronous operations, like querying a caching backend (memcached) or adding elements to a queue system."
+            }
+        ]
+    },
+  {
+    "date": "2015-11-11T18:45:00.000Z",
+    "talks": [
+      {
+        "title": "NodeJS - A platform for PORN!",
+        "level": "beginner | advanced | expert",
+        "language": "en",
+        "speaker": {
+          "twitter": "",
+          "name": "Dave W.",
+          "portrait": "https://avatars0.githubusercontent.com/u/1398082?v=3&s=400"
+        },
+        "description": "How we handle over 55m page views per month. The talk details how we developed a platform designed to cope with high traffic, while keeping it as lightweight as possible (read: low cost!). We needed it to handle the lows of the first few weeks, the highs of the 1st 12 months, and to be a solid platform to build upon for as much traffic as we wanted to throw at it. We did it, and this is the story........"
+            },
+      {
+        "title": "TypeScript will finally bring peace to your troubled soul",
+        "level": "beginner",
+        "language": "en",
+        "speaker": {
+          "twitter": "pimterry",
+          "name": "Tim Perry",
+          "portrait": "https://avatars3.githubusercontent.com/u/1526883?v=3&s=400"
+        },
+        "description": "You've heard of TypeScript, but you're not sure if it's a good idea, and you've never really seen it in action. TypeScript is powerful though, rapidly gaining momentum, and has a lot more to offer than just JS + classes. Let's take a proper look. In this talk we'll dig a bit deeper and play around with some of the more interesting features TypeScript gives you. We'll walk through the extras that TypeScript provides and how they'll solve your every woe, learn a bit about where the types come in and why'd you care, and see how exactly you might put it into action on your next Node project."
+            }
+        ]
+    },
+  {
+    "date": "2015-11-21T09:30:00.000Z",
+    "talks": [{
+      "title": "NodeConf Barcelona",
+      "speaker": {
+        "twitter": "NodeConfBcn",
+        "name": "NodeConf",
+        "portrait": "http://barcelona.nodeconf.com/assets/img/nodeconf-thumb.png"
+      },
+      "description": "12 speakers, single track, non-profit conference for node.js enthusiasts, fans and newcomers."
         }]
     },
-    {
-        "date": "2015-12-09T18:45:00.000Z",
-        "talks": []
+  {
+    "date": "2015-12-09T18:45:00.000Z",
+    "talks": [{}, {}]
     }
 ]
